@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.listEl {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.logoEl {
+  height: 400px;
+  width: 400px;
+}
+
+.paragraphEl1 {
+  font-family: roboto;
+  font-size: 16px;
+}
